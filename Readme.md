@@ -1,6 +1,6 @@
----This is a Data cleaning project in SQL---
+---This is a Data cleaning project in SQL Server Management Studio---
 
-Credit goes to Alex freigberg-The owner of Alex the Analyst channel in youtube for showing what codes to be written for each desired output.
+Special Credit goes to Alex freigberg-The owner of Alex the Analyst channel in youtube for showing what codes to be written for each desired output which I have followed along the way and learn what code to be written for each output for such dataset in the future projects.
 
 The dataset contains Housing data for Nashville Housing Society where numerous data field needed to be cleaned up for to make the dataset much better to understand and analysis.
 
