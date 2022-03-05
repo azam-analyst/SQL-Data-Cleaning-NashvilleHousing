@@ -147,7 +147,7 @@ With List_rownumbers As
 					) row_number
 	FROM NashvilleHousing
 	)
-SELECT * 
+DELETE 
 FROM List_rownumbers
 WHERE row_number>1
 
