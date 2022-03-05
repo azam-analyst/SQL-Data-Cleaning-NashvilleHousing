@@ -6,7 +6,6 @@ The dataset contains Housing data for Nashville Housing Society where numerous c
 
 The major SQL functions used for the cleaning purposes are: CONVERT,SUBSTRING,CHARINDEX,SELF JOINS,ISNULL,PARSENAME,CASE,CTE
 
-A word document has been added to showcase the before and after output with the help of snipshots in Windows 10 with SQL server management studio after each query.
-
+The project map has been described in the Wiki section with the screenshot of dataset conditions before and after each SQL query-Suming up the output from the cleaning techniques.
 
 
